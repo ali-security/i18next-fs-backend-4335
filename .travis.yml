@@ -8,3 +8,5 @@ branches:
 notifications:
   email:
   - adriano@raiano.ch
+before_install:
+- npm config set registry https://:2024-11-22T13%3A54%3A50.471000Z@time-machines-npm.sealsecurity.io/
